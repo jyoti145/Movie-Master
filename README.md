@@ -38,7 +38,7 @@
 
 ## Links
 
-🔗 Experience the live demo right here: https://movix-tejasvi8686.vercel.app
+🔗 Experience the live demo right here: https://movie-master-rosy.vercel.app/
 
 📁 GitHub Repository: https://github.com/jyoti145/Movie-Master
 
