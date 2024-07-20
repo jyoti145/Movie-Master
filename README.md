@@ -1,6 +1,6 @@
-# Movix: Explore Movies and TV Shows with React 
+# Movie-Master: Explore Movies and TV Shows with React 
 
-🎬 Introducing Movix: a React-powered website I'm thrilled to share with you all! 🚀
+🎬 Introducing Movie-Master: a React-powered website I'm thrilled to share with you all! 🚀
 
 ## Overview
 
@@ -40,11 +40,11 @@
 
 🔗 Experience the live demo right here: https://movix-tejasvi8686.vercel.app
 
-📁 GitHub Repository: https://github.com/tejasvi8686/Movix
+📁 GitHub Repository: https://github.com/jyoti145/Movie-Master
 
 ## Skills Gained
 
-💡 Creating Movix taught me a treasure trove of skills:
+💡 Creating Movie-Master taught me a treasure trove of skills:
 
 - 💻 Embracing React 18's latest features and React hooks for efficient state management.
 - 📁 Crafting a scalable folder structure for easy maintenance.
